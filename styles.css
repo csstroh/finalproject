@@ -1,13 +1,20 @@
 @charset "UTF-8";
 /* CSS Document */
 
+.header {
+	background: #c6ecc6;
+	width: auto;
+	height: 60px;
+	margin: -15px;
+}
+
 nav {
 	font-family: 'Playfair Display', serif;
 	text-transform: uppercase;
 	width: 700px;
 	margin: 0 auto;
 	text-align: center;
-	margin-top: 1em;
+	margin-top: auto;
 	letter-spacing: 8px;
 }
 
@@ -21,4 +28,51 @@ li {
 a:link {
 	color: black;
 	text-decoration: none;
+}
+
+a:visited {
+	color: black;
+}
+
+a:hover {
+	color: white;
+}
+
+.logo {
+	margin-top: 40px;
+	width: 175px;
+}
+
+.images {
+	margin-top: 17em;
+	width: auto;
+	text-align: center;
+}
+
+.blocks {
+	width: auto;
+	text-align: center;
+	margin-bottom: 6em;
+}
+
+.main {
+	width: 800px;
+	margin: 0px auto;
+	align-content: center;
+	display: block;
+}
+
+hr {
+	text-align: center;
+	width: 800px;
+    height: 2px;
+    border: 0;
+    border-top: 2px solid #c6ecc6;
+    margin: 15px auto; 
+}
+	
+.footer {
+	background: #c6ecc6;
+	margin: -15px;
+	height: 20em;
 }
