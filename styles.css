@@ -2,7 +2,7 @@
 /* CSS Document */
 
 .header {
-	background: #c6ecc6;
+	background: #ffeecc;
 	width: auto;
 	height: 60px;
 	margin: -15px;
@@ -49,10 +49,26 @@ a:hover {
 	text-align: center;
 }
 
-.blocks {
-	width: auto;
+.blockleft {
+	font-family: 'Playfair Display', serif;
+	text-transform: uppercase;
+	letter-spacing: 8px;
+	width: 398px;
+	display: inline-block;
 	text-align: center;
-	margin-bottom: 6em;
+	margin: 1em auto 6em auto;
+	background: #ffeecc;
+}
+
+.blockright {
+	font-family: 'Playfair Display', serif;
+	text-transform: uppercase;
+	letter-spacing: 8px;
+	width: 398px;
+	display: inline-block;
+	text-align: center;
+	margin: 1em auto 6em auto;
+	background: #ffeecc;
 }
 
 .main {
@@ -72,7 +88,7 @@ hr {
 }
 	
 .footer {
-	background: #c6ecc6;
+	background: #ffeecc;
 	margin: -15px;
 	height: 20em;
 }
