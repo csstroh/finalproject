@@ -1,6 +1,7 @@
 @charset "UTF-8";
 /* CSS Document */
 
+/*top color nav bar*/
 .header {
 	background: #ffeecc;
 	width: auto;
@@ -38,11 +39,13 @@ a:hover {
 	color: white;
 }
 
+/*center business logo*/
 .logo {
 	margin-top: 40px;
 	width: 175px;
 }
 
+/*images div css*/
 .images {
 	margin-top: 17em;
 	width: auto;
@@ -71,6 +74,7 @@ a:hover {
 	background: #ffeecc;
 }
 
+/*main large image css*/
 .main {
 	width: 800px;
 	margin: 0px auto;
@@ -86,7 +90,8 @@ hr {
     border-top: 2px solid #c6ecc6;
     margin: 15px auto; 
 }
-	
+
+/*color bar footer css*/	
 .footer {
 	background: #ffeecc;
 	margin: -15px;
