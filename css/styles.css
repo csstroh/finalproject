@@ -52,6 +52,10 @@ a:hover {
 	text-align: center;
 }
 
+#medium {
+	clear: both;	
+}
+
 #mission {
 	font-family: 'Josefin Sans', sans-serif;
 	margin: auto;
@@ -59,6 +63,8 @@ a:hover {
 	width: 670px;
 	padding: 2em 0 1em 0;
 	line-height: 30px;
+	width: auto;
+	text-align: center;
 }
 
 .blockleft {
@@ -85,9 +91,11 @@ a:hover {
 /*main large image css*/
 .main {
 	width: 800px;
-	margin: 0px auto;
+	margin: 17em auto;
 	align-content: center;
 	display: block;
+	width: auto;
+	text-align: center;
 }
 
 hr {
@@ -121,8 +129,26 @@ hr {
 	font-size: 12px;
 }
 
+input[type=text] {
+	height: 15px;
+	background-color: white;
+    color: black;
+    border: none;
+	width: 200px;
+}
+
+input[type=submit] {
+	font-family: 'Josefin Sans', sans-serif;
+	background-color: white;
+	color: black;
+    border: 1px solid black;
+	padding: 10px 10px;
+	text-transform: uppercase;
+}
+
 #details {
 	font-family: 'Josefin Sans', sans-serif;
+	color: black;
 	margin: auto;
 	text-align: center;
 	width: 670px;
