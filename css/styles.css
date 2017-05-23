@@ -47,13 +47,9 @@ a:hover {
 
 /*images div css*/
 .images {
-	width: auto;
-	margin-top: 17em;
+	width: 800px;
+	margin: 17em auto 0 auto;
 	text-align: center;
-}
-
-#medium {
-	clear: both;	
 }
 
 #mission {
@@ -61,10 +57,8 @@ a:hover {
 	margin: auto;
 	text-align: center;
 	width: 670px;
-	padding: 2em 0 1em 0;
 	line-height: 30px;
-	width: auto;
-	text-align: center;
+	padding: 2em 0 1em 0;
 }
 
 .blockleft {
@@ -91,11 +85,10 @@ a:hover {
 /*main large image css*/
 .main {
 	width: 800px;
-	margin: 17em auto;
+	margin: auto;
 	align-content: center;
 	display: block;
-	width: auto;
-	text-align: center;
+	margin-top: 17em;
 }
 
 hr {
@@ -146,6 +139,15 @@ input[type=submit] {
 	text-transform: uppercase;
 }
 
+input[type=submit]:hover {
+	font-family: 'Josefin Sans', sans-serif;
+	background-color: #ffeecc;
+	color: black;
+    border: 1px solid black;
+	padding: 10px 10px;
+	text-transform: uppercase;
+}
+
 #details {
 	font-family: 'Josefin Sans', sans-serif;
 	color: black;
@@ -154,4 +156,39 @@ input[type=submit] {
 	width: 670px;
 	padding: 2em 0 1em 0;
 	line-height: 30px;
+}
+
+#cite {
+	font-family: 'Josefin Sans', sans-serif;
+	color: black;
+	margin: auto;
+	text-align: center;
+	width: 670px;
+	padding: 2em 0 1em 0;
+	line-height: 30px;
+	font-size: 12px;
+}
+
+/*about page css*/
+
+.content p {
+	font-family: 'Josefin Sans', sans-serif;
+	color: black;
+	margin: auto;
+	text-align: center;
+	width: 800px;
+	padding-top: 1em;
+	line-height: 30px;
+}
+
+.content h1 {
+	font-family: 'Playfair Display', serif;
+	text-transform: uppercase;	color: black;
+	margin: auto;
+	text-align: center;
+	width: 800px;
+	padding: 2em 0 1em 0;
+	line-height: 30px;
+	letter-spacing: 16px;
+	font-size: 24px;
 }
