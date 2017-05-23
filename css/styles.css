@@ -158,6 +158,11 @@ input[type=submit]:hover {
 	line-height: 30px;
 }
 
+i {
+	width: 50px;
+	font-size: 2em;
+}
+
 #cite {
 	font-family: 'Josefin Sans', sans-serif;
 	color: black;
