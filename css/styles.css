@@ -182,7 +182,7 @@ i {
 	color: black;
 	margin: auto;
 	text-align: center;
-	width: 800px;
+	width: 810px;
 	padding-top: 1em;
 	line-height: 30px;
 }
@@ -197,4 +197,21 @@ i {
 	line-height: 30px;
 	letter-spacing: 16px;
 	font-size: 24px;
+}
+
+/*<!--shop page css-->*/
+#go {
+	font-family: 'Playfair Display', serif;
+	margin: auto;
+	padding-top: 4em;
+	text-align: center;
+	width: 670px;
+	line-height: 30px;
+	text-transform: uppercase;
+	letter-spacing: 6px;
+	font-size: 14px;
+}
+
+a:hover p {
+	color: #ffeecc;
 }
