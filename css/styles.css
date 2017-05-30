@@ -103,8 +103,9 @@ hr {
 /*color bar footer css*/	
 .footer {
 	background: #ffeecc;
-	margin: -15px auto;
-	height: 20em;
+	width: auto;
+	margin: -20px;
+	height: 24em;
 	margin-top: 6em;
 	text-align: center;
 }
