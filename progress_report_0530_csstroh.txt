@@ -1,0 +1,77 @@
+commit 18014949fe9dea7e2a3b1e2b05b2d832273fbab6
+Author: Chandler Stroh <csstroh@calpoly.edu>
+Date:   Tue May 30 14:45:28 2017 -0700
+
+    style contact form
+
+commit 14b39d814c2844e389a1160a6850fed421cfa09b
+Author: Chandler Stroh <csstroh@calpoly.edu>
+Date:   Tue May 30 13:35:56 2017 -0700
+
+    add images
+
+commit ee154e64ea4a23f02ff523f23f2f5cbae0465d1a
+Author: Chandler Stroh <csstroh@calpoly.edu>
+Date:   Tue May 30 12:35:14 2017 -0700
+
+    clickable FA icons
+
+commit 8dc1d9e00312763dece0dc574d0e753d0bc9b9e0
+Author: Chandler Stroh <csstroh@calpoly.edu>
+Date:   Tue May 30 12:25:08 2017 -0700
+
+    Add contact and shop html
+
+commit 737d62bd6555dad7773c71004672f8daa94d3965
+Author: Chandler Stroh <csstroh@calpoly.edu>
+Date:   Tue May 23 14:42:59 2017 -0700
+
+    add FA icons
+
+commit 6670b0dfd9c098313d11e4bd44da1e0bc60966bf
+Author: Chandler Stroh <csstroh@calpoly.edu>
+Date:   Tue May 23 14:28:17 2017 -0700
+
+    format and style about page
+
+commit 69e188dc19241ca87ecf9fa312633e8c3f0ca0af
+Author: Chandler Stroh <csstroh@calpoly.edu>
+Date:   Tue May 23 13:25:33 2017 -0700
+
+    style footer
+
+commit 5e16b1ee43f23b96c5d9f278cf7bc925c854774e
+Author: Chandler Stroh <csstroh@calpoly.edu>
+Date:   Tue May 23 12:56:13 2017 -0700
+
+    add files
+
+commit e0271666b0752e0e36fd4e54d72bc7e2b07704b1
+Author: Chandler Stroh <csstroh@calpoly.edu>
+Date:   Tue May 16 14:49:42 2017 -0700
+
+    add comments
+
+commit b0b5218946595a2e4ab6dd0e73277c566884bc8e
+Author: Chandler Stroh <csstroh@calpoly.edu>
+Date:   Tue May 16 14:45:29 2017 -0700
+
+    css home body
+
+commit 363e1cdab0e868eabde1e60991a06420837e2079
+Author: Chandler Stroh <csstroh@calpoly.edu>
+Date:   Tue May 16 14:22:11 2017 -0700
+
+    format body images
+
+commit cdf0f9e25ddca58fd4cbec26e817e5f0ce21a146
+Author: Chandler Stroh <csstroh@calpoly.edu>
+Date:   Tue May 16 13:31:16 2017 -0700
+
+    add nav bar
+
+commit 61d0351c8c1cbc31c0aead7d02f53e20c33940a7
+Author: Chandler Stroh <csstroh@calpoly.edu>
+Date:   Tue May 16 12:31:47 2017 -0700
+
+    Add files
